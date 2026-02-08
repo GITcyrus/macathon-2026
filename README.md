@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1895" height="895" alt="image" src="https://github.com/user-attachments/assets/fa3bf478-5629-445b-aa30-8f56ce31e0ab" />
 </div>
 
 🌊 Learn Flow: Adaptive AI Learning Paths
